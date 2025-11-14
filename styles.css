@@ -37,3 +37,9 @@ border-radius: 100px;
 
 
 }
+
+.cloud::before{
+content: '';
+
+
+}
