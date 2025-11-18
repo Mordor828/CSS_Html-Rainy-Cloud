@@ -53,3 +53,12 @@ box-shadow:90px 0 0 30px #dddcdc;
 
 
 }
+
+.rain 
+{
+position: relative;
+display: flex;
+z-index: 1;
+
+
+}
