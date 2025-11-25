@@ -81,7 +81,8 @@ animation: animate 5s linear infinite;
  {
     0%
     {
-    transform: translateY(300px);
+    transform: translateY(0);
 }
 70%
 {
+tran
