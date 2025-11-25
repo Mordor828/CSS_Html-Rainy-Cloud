@@ -22,6 +22,7 @@ background: #000000
 {
 position: relative;
 height: 400px;
+border-bottom: 2px solid #fff;
 
 
 }
@@ -87,10 +88,10 @@ transform-origin: bottom;
 }
 70%
 {
-transform: translateY(300px) scale(1);
+transform: translateY(310px) scale(1);
 }
 100%
 {
- transform: translateY(300px) scale(0);   
+ transform: translateY(310px) scale(0);   
 }
 }
