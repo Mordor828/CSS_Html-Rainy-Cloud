@@ -85,4 +85,10 @@ animation: animate 5s linear infinite;
 }
 70%
 {
-tran
+transform: translateY(300px);
+}
+100%
+{
+ transform: translateY(300px);   
+}
+}
