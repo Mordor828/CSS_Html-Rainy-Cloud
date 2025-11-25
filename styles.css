@@ -79,5 +79,9 @@ animation: animate 5s linear infinite;
 
 @keyframes animate
  {
-    
+    0%
+    {
+    transform: translateY(300px);
 }
+70%
+{
